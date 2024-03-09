@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Perform versions checking of the installed tools, must be run as freshly created user
+
 function welcome_banner()
  {
     echo "############################################"
